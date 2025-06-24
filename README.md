@@ -20,7 +20,4 @@ This system predicts expected maize yield based on:
 - **Jupyter Notebook**
 - Data sourced from **Kaggle** and other open datasets
 
----
-
-## 📂 Project Structure
 
